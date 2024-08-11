@@ -24,7 +24,7 @@ function RightSection() {
         </div>
         <div className="flex justify-between text-sm">
           <div>Company Name</div>
-          <div className="dark:text-[B9B9B9]">Reachinbox</div>
+          <div className="dark:text-[#B9B9B9]">Reachinbox</div>
         </div>
       </div>
 
