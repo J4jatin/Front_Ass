@@ -7,7 +7,7 @@ import { TbReload } from "react-icons/tb";
 
 function AllInbox({
   data,
-  loadMai,
+  loadMail,
 }: {
   data: any;
   loadMail: (threadId: number) => void;
