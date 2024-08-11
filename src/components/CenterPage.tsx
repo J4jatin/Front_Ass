@@ -8,7 +8,7 @@ import { GoDotFill } from "react-icons/go";
 import DeletePopUp from "./DeletePopUp";
 
 interface MailData {
-  id: numbe;
+  id: number;
   fromName: string;
   fromEmail: string;
   toName: string;
