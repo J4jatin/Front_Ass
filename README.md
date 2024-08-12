@@ -1,4 +1,5 @@
 # Live Deployed Link :-
+https://bit.ly/3AhimHM
 
 
 # DEMO VIDEO :-
@@ -10,8 +11,7 @@
 
 Clone repository
 
-git clone [https://github.com/vishalyd05/ReachInbox-Assignment.git
-](https://github.com/J4jatin/Front_Ass.git)
+# git clone 
 Run Command:
 
 npm install
