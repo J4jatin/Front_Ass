@@ -32,7 +32,7 @@ export default {
 # DEMO VIDEO :-
  https://www.loom.com/share/8afb7c80ce08425a86838be87197bc71?sid=b702439e-e11f-473a-b5d5-8119018fa711 
 
-# Installation
+# Installation Commands
 
 To install and run this project on your local machine, follow these steps:
 
