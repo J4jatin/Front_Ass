@@ -32,23 +32,21 @@ export default {
 # DEMO VIDEO :-
  https://www.loom.com/share/8afb7c80ce08425a86838be87197bc71?sid=b702439e-e11f-473a-b5d5-8119018fa711 
 
-# Installation Commands
 
-To install and run this project on your local machine, follow these steps:
+## To set up and run this project on your local machine, follow these steps:
 
-1. Clone repository
-   ```
-   git clone https://github.com/vishalyd05/ReachInbox-Assignment.git
-   ```
-2. Run Command:
-   ```
-   npm install
-   ```
-3. Run on localhost
-   ```
-   npm run dev
-   ```
-4. The app run on 'https://localhost:3000'
-5. Enjoy 
+Clone the repository:
 
+
+git clone https://github.com/vishalyd05/ReachInbox-Assignment.git
+Install dependencies:
+
+
+npm install
+Start the development server:
+
+
+npm run dev
+Access the app:
+Open your browser and go to https://localhost:3000.
    
