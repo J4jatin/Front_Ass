@@ -37,7 +37,7 @@ function AllInbox({
           </div>
           <div className="dark:text-white text-black font-bold">
             {data.length}/25{" "}
-            <span className="text-[#7F7F7F] font-normal">Inboxes selected</span>
+            <span classNam="text-[#7F7F7F] font-normal">Inboxes selected</span>
           </div>
         </div>
         <div
