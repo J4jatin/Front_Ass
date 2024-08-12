@@ -16,7 +16,7 @@ Clone repository
 2. Run Command:
    npm install
 
-3. Run on localhost
+3. Run on localhost:
    npm run dev
 
 4. The app run on 'https://localhost:3000'
