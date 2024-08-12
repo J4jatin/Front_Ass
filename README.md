@@ -35,13 +35,15 @@ export default {
 
 ## To set up and run this project on your local machine, follow these steps:
 
-Installation Commands
-To install and run this project on your local machine, follow these steps:
 
 Clone repository
+
 git clone https://github.com/vishalyd05/ReachInbox-Assignment.git
+
 Run Command:
+
 npm install
+
 Run on localhost
 npm run dev
 The app run on 'https://localhost:3000'
