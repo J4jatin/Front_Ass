@@ -5,7 +5,7 @@ interface Props {
   onDelete: () => void;
 }
 
-function DeletePopUp({ onCancel, onDelete }: Props) {
+function DeletePopUp({ onCance, onDelete }: Props) {
   return (
     <div className="fixed top-0 left-0 w-full h-full flex justify-center items-center bg-[#8484847D] bg-opacity-50 z-50">
       <div className="bg-gradient-to-b from-[#141517] to-[#232528] p-8 rounded-lg items-center flex flex-col">
