@@ -1,6 +1,8 @@
 # Live Deployed Link :-
 https://bit.ly/3AhimHM
 
+# Loom Video Link:
+https://www.loom.com/share/3875c3f7434a403cb053c3c678b4d8af?sid=b3b8ef15-3c8d-486c-b58e-14d6715bda7b
 
 
 ## To set up and run this project on your local machine, follow these steps:
