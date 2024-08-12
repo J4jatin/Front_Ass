@@ -11,12 +11,11 @@ https://bit.ly/3AhimHM
 
 Clone repository
 
-# git clone 
-Run Command:
+1. git clone https://github.com/J4jatin/Front_Ass.git
 
-npm install
+2. Run Command:
+   npm install
+   Run on localhost
+   npm run dev
+3. The app run on 'https://localhost:3000'
 
-Run on localhost
-npm run dev
-The app run on 'https://localhost:3000'
-Enjoy
