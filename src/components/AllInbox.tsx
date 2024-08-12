@@ -9,7 +9,7 @@ function AllInbox({
   data,
   loadMail,
 }: {
-  data: any;
+  date: any;
   loadMail: (threadId: number) => void;
 }) {
   async function reloadHandler() {

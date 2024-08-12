@@ -7,7 +7,7 @@ function AppBar() {
           alt="logo"
           className=" h-10"
         ></img> */}
-        <h1 classNam="text-2xl font-bold">REACHINBOX</h1>
+        <h1 className="text-2xl font-bold">REACHINBOX</h1>
       </div>
     </div>
   );
